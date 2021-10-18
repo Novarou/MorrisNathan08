@@ -3,8 +3,14 @@
 
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
     std::cout << "Hello World!\n";
+
+    int sum = 10 * 100000;
+    cout << sum;
+
 }
 
